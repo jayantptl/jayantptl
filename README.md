@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working as a **Backend Developer**
 
-- 💬 Ask me about **Javascript, NodeJs, ReactJs, Express, Mongoose**
+- 💬 Ask me about **Js, MERN stack, System Design & CS-fundamentals ( OS, DBMS, OOPS, Computer Networking & DSA )**
 
 - 📫 How to reach me **jayantpatel2609@gmail.com**
 
