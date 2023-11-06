@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-learn.adafruit.com/assets/assets/000/112/603/medium800/programming_GFP_GPHG_preview.png?1656018137)]
+![MasterHead](https://cdn-learn.adafruit.com/assets/assets/000/112/603/medium800/programming_GFP_GPHG_preview.png?1656018137)
 <h1 align="center">Hi 👋, I'm Jayant</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
