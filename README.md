@@ -1,4 +1,4 @@
-  ![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Jayant</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Javascript,NodeJs,ReactJs,Express, MongoDB**
 
 - 📫 How to reach me **jayantpatel2609@gmail.com**
 
