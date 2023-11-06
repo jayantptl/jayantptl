@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Sk9uH1JEdmX9vURKLRSf_wSG4SVkjGRn/view?usp=sharing](https://drive.google.com/file/d/1Sk9uH1JEdmX9vURKLRSf_wSG4SVkjGRn/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jynt-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jynt-patel" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/xyz_9321484" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="xyz_9321484" height="30" width="40" /></a>
