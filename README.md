@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 💬 Ask me about **Javascript,NodeJs,ReactJs,Express, MongoDB**
+- 💬 Ask me about **Javascript, NodeJs, ReactJs, Express, Mongoose**
 
 - 📫 How to reach me **jayantpatel2609@gmail.com**
 
