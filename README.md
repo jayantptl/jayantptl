@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jayantpatel2609@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Sk9uH1JEdmX9vURKLRSf_wSG4SVkjGRn/view?usp=sharing](https://drive.google.com/file/d/1ff68polR7gXS-TYRUmWZoijOImIujoEl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Sk9uH1JEdmX9vURKLRSf_wSG4SVkjGRn/view?usp=sharing](https://drive.google.com/file/d/1eJPeibD5gc8elT1J2SbVq8-Bhurx5Iku/view?usp=sharing)
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
